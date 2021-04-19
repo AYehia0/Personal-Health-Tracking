@@ -14,16 +14,16 @@ Introduction:
     your health by providing a planner application to schedule, and organize meals of the day, and 
     control your calories.
 
-Objectives
+Objectives:
 
     ● Provide an easy way to manange your everyday meals.
     ● Count calories and keep track of weight loss process.
     ● Easy to use, access from anywhere.
     ● Build beautiful profile with progress.
 
-Application Features and Description
-    User is required to login to a webpage (later on may be native), where food meals of the day is shown and total calories of the day,
-    and user can add/remove food or create his own meal. Each meal has its nutrition facts, later on a nicely graphs are displayed to show progress.
+Application Features and Description:
+
+    User is required to login to a webpage (later on may be native application), where food meals of the day is shown and total calories of the day,and user can add/remove food or create his own meal. Each meal has its nutrition facts, later on a nicely graphs are displayed to show progress.
 
     Each user has a:
     - Profile : username, picture, starting weight,... etc.
